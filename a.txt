@@ -1,2 +1,5 @@
-helllo
-1213341
+aaaaaaaaaa
+Map 是将键映射到值( key-value )的对象。一个映射不能包含重复的键；每个键最多只能
+映射到一个值。Map 接口提供三种 collection 视图，允许以键集(keySet())、值集
+(values())或键-值映射关系集(entrySet())的形式查看某个映射的内容( 即获取键值对的内
+容 )。
