@@ -1,4 +1,0 @@
-bbbbbbbbbbbbbbbbbbbbb
-映射顺序定义为迭代器在映射的 collection 视图上返回其元素的顺序,即可以映射得到键、
-值和键-值的 Set 集合，元素的顺序是由得到的 Set 集合所决定的。某些映射实现可明确保
-证其顺序，如 TreeMap 类；另一些映射实现则不保证顺序，如 HashMap 类 。
