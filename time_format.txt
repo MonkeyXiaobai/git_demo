@@ -3,4 +3,6 @@ c:foreach 中jsp页面中怎么对时间类型进行格式化问题?
 两步走： 
 引用
 <%@ taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt" %> 
-发布时间： <fmt:formatDate value="${result.asIssueTime}" type="both"/> 
+
+发布时间： <fmt:formatDate value="${result.asIssueTime}" type="both"/>
+元芳，你说的对呀！
